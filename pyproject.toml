@@ -1,0 +1,6 @@
+[project]
+name = "myservice"
+version = "0.1.0"
+description = "Scaffolded by SHC.IntegrateX.Core's Coder workspace integration."
+requires-python = ">=3.11"
+dependencies = ["fastapi", "uvicorn[standard]"]
